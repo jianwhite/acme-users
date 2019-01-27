@@ -1,0 +1,23 @@
+{
+  "name": "acme-users",
+  "version": "1.0.0",
+  "description": "https://simple-acme-users.herokuapp.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianwhite/acme-users.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jianwhite/acme-users/issues"
+  },
+  "homepage": "https://github.com/jianwhite/acme-users#readme",
+  "dependencies": {
+    "morgan": "^1.9.1"
+  }
+}
